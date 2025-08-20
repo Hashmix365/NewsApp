@@ -1,0 +1,75 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "Martha Riley",
+      "title": "Ex-Australia all-rounder bowls nightmare 18-ball over to hand victory to rivals",
+      "description": "Former Australia international John Hastings bowled 12 wides and a no-ball in one of the most bizarre overs in cricket history.The 39-year-old was tak",
+      "url": "https://talksport.com/sport/3427128/john-hastings-ex-australia-cricketer-18-ball-over/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2025/07/john-hastings-bowls-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+      "publishedAt": "2025-07-30T11:38:48Z",
+      "content": "Former Australia international John Hastings bowled 12 wides and a no-ball in one of the most bizarre overs in cricket history.\r\nThe 39-year-old was taking part in a World Championship of Legends  T2… [+3842 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tipranks.com"
+        },
+        "author": "Kirti Tak",
+        "title": "M&A News: Rumble (RUM) Explores $1.2B Takeover of Germany’s Northern Data - TipRanks",
+        "description": "U.S.-based Rumble ($RUM) is exploring a $1.2 billion bid to acquire Germany’s Northern Data AG ($NDTAF). The move takes Rumble beyond its video-sharing roots, aimin...",
+        "url": "https://www.tipranks.com/news/ma-news-rumble-rum-explores-1-2b-takeover-of-germanys-northern-data",
+        "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/08/shutterstock_2208132165-750x406.jpg",
+        "publishedAt": "2025-08-11T12:22:30Z",
+        "content": "Story HighlightsU.S. video platform and cloud services provider Rumble is weighing a roughly $1.17 billion bid for Germany-based Northern Data."
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "CNBC"
+        },
+        "author": "Ali McCadden",
+        "title": "Here's what U.S. automakers are saying about Trump's changing EV policies - CNBC",
+        "description": "As a result of the changing EV landscape under President Trump, U.S. automakers are evaluating their product lineups and calculating the dollar impacts.",
+        "url": "https://www.cnbc.com/2025/08/11/automakers-trump-electric-vehicles-ev-policies-ford-gm-tesla-rivian.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108114359-1741726191606-gettyimages-2203994817-AFP_36ZP7WX.jpeg?v=1742351374&w=1920&h=1080",
+        "publishedAt": "2025-08-11T11:00:01Z",
+        "content": "Tesla electric vehicles at a charging station in Alhambra, California on March 11, 2025. \r\nOn President Donald Trump's first day in office, he signed an executive order aiming to eliminate the \"elect… [+4592 chars]"
+        },
+        {
+        "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+        },
+        "author": null,
+        "title": "Israel targets and kills Al Jazeera correspondent Anas al-Sharif as toll worsens on Gaza journalists - AP News",
+        "description": "Israel’s military has targeted and killed an Al Jazeera correspondent and others with an airstrike as they sheltered outside a Gaza City hospital. Press advocates say an Israeli “smear campaign” had stepped up after Anas al-Sharif cried on air over starvation…",
+        "url": "https://apnews.com/article/mideast-wars-gaza-journalist-jazeera-c7d73f1d3cfa3d24fb4ce5a294c08d32",
+        "urlToImage": "https://dims.apnews.com/dims4/default/65e3e72/2147483647/strip/true/crop/5557x3126+0+290/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F97%2F91%2F684cdb5e3d24eddf753649021501%2F5a2cee0bcbda4825b25788232bdcf6ea",
+        "publishedAt": "2025-08-11T10:10:00Z",
+        "content": "JERUSALEM (AP) Israels military targeted and killed an Al Jazeera correspondent and others with an airstrike late Sunday in Gaza, after press advocates said an Israeli smear campaign stepped up when … [+6408 chars]"
+        }
+]
+}
