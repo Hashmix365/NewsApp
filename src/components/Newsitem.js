@@ -13,7 +13,7 @@ export class Newsitem extends Component {
         : imgurl
 } className="card-img-top" alt="..."/>
   <div className="card-body">
-    <h5 className="card-title">{title}...</h5>
+    <h5 className="card-title fw-bold ">{title}...</h5>
     <p className="card-text">{description}...</p>
     <a rel="noreferrer"  href={newsurl} target= "_blank" className="btn btn-sm btn-dark">Go somewhere</a>
   </div>
